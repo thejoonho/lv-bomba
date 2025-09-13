@@ -1,5 +1,7 @@
 # Low Voltage Battery Board 
 
+![head](https://github.com/thejoonho/lv-bomba/blob/main/images/lv-batt-board.jpeg)
+
 🛠️ 
 
 ## 🗄️ Project Files
