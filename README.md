@@ -2,7 +2,7 @@
 
 ![head](https://github.com/thejoonho/lv-bomba/blob/main/images/lv-batt-board.jpeg)
 
-🛠️ I designed a low voltage battery PCB with integrated temperature sensing, ensuring safe and reliable power delivery for the University of Toronto Formula Racing car’s low voltage system.
+🔋 I designed a low voltage battery PCB with integrated temperature sensing, ensuring safe and reliable power delivery for the University of Toronto Formula Racing car’s low voltage system.
 
 ## 🗄️ Project Files
 
