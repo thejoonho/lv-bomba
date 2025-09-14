@@ -7,7 +7,7 @@
 ## 🗄️ Project Files
 
 - 🪄 **Altium Designer:** [Low Voltage Battery Board](https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=171803BD-74A5-4BAE-9C3B-C18D398DA15D&activeView=3D)
-- 📑 **Google Doc:** [Project Documentation](https://docs.google.com/document/d/1T1kuHEfLhl1W9Vp5NQ1bjV8UXPvdlBXKJn0wyxQ07zg/edit?usp=sharing)
+- 🌁 **GitHub:** [Additional Project Images](https://github.com/thejoonho/lv-bomba/tree/main/images)
 
 ## 💐 Acknowledgements
 
